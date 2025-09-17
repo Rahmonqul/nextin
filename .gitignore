@@ -1,0 +1,11 @@
+.venv
+venv
+.idea
+.DS_Store
+odoo
+enterprise
+conf
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
