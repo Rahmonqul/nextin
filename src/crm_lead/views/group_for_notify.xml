@@ -1,0 +1,7 @@
+<odoo>
+        <record id="group_hr_manager_custom" model="res.groups">
+            <field name="name">HR Boshqaruvchisi</field>
+            <field name="category_id" ref="base.module_category_human_resources"/>
+            <field name="comment">Ushbu guruh inson resurslarini boshqaruvchi foydalanuvchilar uchun mo‘ljallangan.</field>
+        </record>
+</odoo>
